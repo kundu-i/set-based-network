@@ -1,10 +1,9 @@
 [
-	{"sets": [0],   "label": "Earth", "size": 372},
-	{"sets": [1],   "label": "Mars", "size": 257},
-	{"sets": [2],   "label":  "Jupiter", "size": 461},
-	{"sets": [0,1],   "size": 51},
-	{"sets": [0,2],    "size": 27},
-	{"sets": [1,2],    "size": 95},
-	{"sets": [1,2,0],   "size": 65},
-	
+{"sets": [0],   "label": "Earth", "size": 372},
+{"sets": [1],   "label": "Mars", "size": 257},
+{"sets": [2],   "label":  "Jupiter", "size": 461},
+{"sets": [0,1],   "size": 51},
+{"sets": [0,2],    "size": 27},
+{"sets": [1,2],    "size": 95},
+{"sets": [1,2,0],   "size": 65}	
 ]
