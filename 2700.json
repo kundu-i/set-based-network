@@ -1,0 +1,8284 @@
+{
+"links":  [ 
+{
+"source": "FKBP4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CFTR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP51A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RHBDD2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CD74",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC2A3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SIRT4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SIRT1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MAPK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RHBDD3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CTSG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SPTLC2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CSNK2A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SNTA1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TBL1X",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP12A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FA2H",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AQP9",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AGO2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DECR1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LIN7B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP4F2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCF2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MPP6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CHMP5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP27B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LTA4H",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "GAPDH",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MAPK14",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LNPEP",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NR3C1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC5A9",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCG2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FKBP15",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "EGR1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP7B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CANX",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KLF2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAC2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SIRT2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "COPB1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CMA1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FKBP6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATXN10",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCB7",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NR1H2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PDLIM4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RARA",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FUS",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NR0B2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LGALS3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AP3B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KRAS",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP27A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ACSBG1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RIPK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TTPA",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TGS1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DDX60L",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCG5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP2C9",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KIF11",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PPIG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "OSBPL8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC9",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MSMO1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP46A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAB11A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SMARCD3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RIMS2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RHBDF1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CREBBP",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CSNK2A2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SPTLC1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP4A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MAPK3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DGCR8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "EP300",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NOX4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PAX8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "OSBPL5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCB11",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KDR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LNX1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CTCF",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SC5D",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "BCHE",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CP",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MTRR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAB7A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCB6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCB4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CDK6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "IGF1R",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP11A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PML",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NCOR1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CERS2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RHOB",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCG8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCA12",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A14",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP39A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC2A12",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "EGFR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "EPHA1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CDKN2B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LIN7C",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A9",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC2A13",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "QDPR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FLT1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SCN3A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CERS3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PDLIM3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LRGUK",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CSF1R",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TIAM1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ZIC3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PPARG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SHANK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC25A34",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NCSTN",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MERTK",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FABP1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "IFT122",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ANXA5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAPGEF6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NOS3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCB8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "WDFY2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ARF6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "COPS2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "C2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MED1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "GPD1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AXL",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SOAT2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP7A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FADD",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A11",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LGALS4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "HDAC3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SCN1A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "INSR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CES3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TBL2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A25",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "F2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR10",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PLG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CATSPER1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PRKACA",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SPNS1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A13",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SP3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "BRSK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP7B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PPARD",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC12",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ISX",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "REST",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TRIM72",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCF1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KLK3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CSTF3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP8B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "EZH2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC7A8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC2A4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LPA",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC2A2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP2B6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "GSK3B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PGR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CARM1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NOS2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KLHDC8B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A10",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SP1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SIRT7",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TBK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "HGS",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "WT1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TBX1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ALAS2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP11C",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SPNS2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAB11B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CACNA1H",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "HSP90AA1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NR1I2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LIMK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SIRT6",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ZNF202",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "LCK",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP3A4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SNTB2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "UGP2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RHOG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ARL4C",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ACSL4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FGFR3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ADIPOR1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP9A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ACER2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "JAK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ESR2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DLG1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ANXA2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TAP1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SCN8A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FYN",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MSRB3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SPNS3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "HP",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ACSL5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAC1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATN1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ADIPOR2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP13A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SMC4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ACSL3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AP1B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ATP2B4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PRIM1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "COPS5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAD23B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PRDM10",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TGFBR2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CACNA1G",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PIK3CG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RXRG",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DMBX1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CACNA1A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CES1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR9",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MTOR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DMD",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCG1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TGM2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCB10",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RAB4A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "HSD11B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PLA2G4A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "UTRN",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RNASEL",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SOAT1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NR1I3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ARHGEF11",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "GOPC",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A16",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SV2A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "MAP3K7",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TTF2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A15",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AP4B1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "FLNA",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "IRAK1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CETN2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PRKACB",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PSMA7",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "GNAS",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "JUN",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CYP2C8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CACNA1B",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CH25H",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "NCOA3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "CEL",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABL1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DLG5",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KDM4A",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PRRX2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCC10",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC22A7",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "PLAU",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ANXA7",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DNM1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AGO3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SGPL1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AGO1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AGO4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "STXBP1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SLC2A8",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "HDAC1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "SRC",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "STX12",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "TLR4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "DLG3",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "BMPR2",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "KLF4",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "RXRB",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AR",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "AOX1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CDKN2A",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TLR5",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CDC42",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCB5",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "AP2B1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ACSL1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CHD9",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CFB",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PRPF8",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CERS6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ENSG00000250264",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PPIA",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HELZ2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "AIF1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CYP1B1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DLG4",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TPCN1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "WWOX",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NR1H4",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SP6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "STXBP2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "KLF14",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC15A1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HPR",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "OSBPL9",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HDAC2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DDX60",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ESR1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NR1H3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PLTP",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "GCAT",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ZNF423",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC22A6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CACNA1I",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TLR7",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NSF",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ENSG00000244255",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ELANE",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "FKBP5",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SCN2A",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NCOA1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RXRA",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CATSPER2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "GBA2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ARHGEF12",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PBK",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC38A1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "JAK2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC2A5",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCF3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC12A4",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RPLP0",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "FDFT1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NR0B1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ACSBG2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MPP2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ILK",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PARK7",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CYP2E1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "BRSK2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MYC",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC22A24",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MSRB2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "BCL6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC22A17",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ASXL2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SP2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ARNTL",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CFI",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SCN5A",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SIRT5",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NCOR2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC22A23",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SCN9A",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "XDH",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CHD7",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TRIM10",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ZNF664",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SVOP",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ANXA1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RHBDD1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NTM",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DICER1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SPTLC3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC22A31",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PRKACG",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "BRD2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "OSBPL10",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MPDZ",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCG4",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NTRK1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ALAS1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MATK",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TAP2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ATP11A",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SIK3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SV2B",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HDLBP",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SV2C",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PDZK1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TMEM241",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DGAT1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RHOA",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "GPS2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TLR6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CYBB",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "LIN7A",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DNM2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SNTB1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TEK",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCC1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RAB7B",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "VDR",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TRIM27",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RPS24",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PPARA",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DROSHA",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ZDHHC8",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MX1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "FLOT1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCC11",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DTNB",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCC4",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SKIV2L",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "KLF5",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCB1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ACSL6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "GPX3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TONSL",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "CYP1A1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HRAS",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "DLG2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "PRMT2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "FRK",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "AP3B2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "AQP4",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "LINGO2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "AKT1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "UBQLN1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "LMO7",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NOS1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC2A1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ATP8B1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC5A8",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SEL1L3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "IKBKB",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "AKT2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TFAM",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCA13",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HDAC9",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SIRT3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RELA",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "ABCB9",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "RHOBTB3",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "GAS7",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NCOA2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "LRTM2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SDHB",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "NCOA6",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SLC22A12",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "FKBP8",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HIST2H3PS2",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "TBL1XR1",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "MTPN",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "HFE",
+"value": 1
+},
+{
+"source": "ABCA1",
+"target": "SCN4A",
+"value": 1
+},
+{
+"source": "FUCA2",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "TMEM132A",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "RCN1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "ANO8",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "CTTNBP2",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "BCL3",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "FSTL3",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "SPP2",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "BPIFB2",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "CETP",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "APOH",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "SERPIND1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "LGALS1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "ANKRD54",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "NFKBIA",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "LBP",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "PSMD10",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "TBL1X",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "TIMP1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "GABPB1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "SCG3",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "PON1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "LAMB1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "NFKB1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "WFS1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "APOC3",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "GPLD1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "NUDT12",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "EHHADH",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "RBP2",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "RBP1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "ABTB1",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "APOB",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "EVA1A",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "IGFBP5",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "PROC",
+"target": "APOA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HSP90B1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CDKN2A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "P4HB",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "JUN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "INSR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GDPD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TNC",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MERTK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AFP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NRIP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BRAP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB13",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LSR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SORL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MPHOSPH8",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CALU",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCNB1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AMELX",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKS6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "JAK3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB9",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CITED2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FEM1C",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GAS6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CHRDL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PRKCI",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ACSL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CHGB",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CD40LG",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IRAK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPIHBP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CHD9",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MXRA8",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPC6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GOT1L1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MAP3K7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NTRK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PEX3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ZAP70",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MAP3K11",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ABCA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "STC2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1CA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KIDINS220",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SRC",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FEM1A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AMBN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NOTUM",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CDKN2B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXP3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXN3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "C3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ACSL4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MATK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HRC",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD32",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IGFBP4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SDC1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HELZ2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MSR1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NFKB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOO",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ALB",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BMP4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1R16A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD30A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BRAF",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BIN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LRP2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ENAM",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MIB1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ATP4A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MIA3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KSR2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SHANK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LRRK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MIB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKLE1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB18",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NR1D1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AGRN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ZNF558",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HDLBP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KNG1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD50",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD29",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GSK3B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VLDLR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NRARP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ESPN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SPP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPC3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MATN3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "H2AFZ",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MGAT4A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PRKCZ",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TF",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOC1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MALRD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "DGAT1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LDLR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD39",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CDH2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPC2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SRA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KANK4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HSD17B4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD30BL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TRPA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "F5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PKDCC",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "C4A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOA1BP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD36",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MBTPS1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TANC1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MAMDC4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HSD3B7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AMTN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CARM1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD46",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKHD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HPR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "INVS",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "A2M",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "UPF3A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TNKS",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LRP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HNF4A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LPA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CREBBP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCDC144A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EPHA7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KANK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SAA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SPARCL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ADAM10",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOA4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD61",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SDC3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "QSOX1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TGFBR2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CUBN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TANC2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APLP2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BARD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ROCK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ATP5B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ACVR1B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AMHR2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CALR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ALDH2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CSF1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CTSL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NR1H3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LOC388210",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PLTP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GAPVD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "UACA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ENSG00000270898",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPARA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ENPP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PNPLA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "DNAJC3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANK3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VCAN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CYR61",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD66",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PTK6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CPT1A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD62",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPARGC1A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LIMK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD35",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AHSG",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GOLM1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PLA2G7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TGFBR1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SDC4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SCARB1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LAMB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NFKBIB",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IGF1R",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD37",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FGG",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB16",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LRP12",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FGA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AMN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BMP15",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKMY2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KANK3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPC4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD18A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD24",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD10",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKS3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ARAF",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TTR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KAT5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ACSL6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PDIA6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TONSL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ACOX1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SQSTM1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ENSG00000254996",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CLU",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "JAK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKS4B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SMARCD3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD9",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ACSL5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MSLN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKFY1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB8",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NFKBID",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MFGE8",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LONRF2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NBR1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKDD1B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GABPB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NTRK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LCAT",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SHANK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LIMK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EP300",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SAA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FAM20C",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SDC2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FBLN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD42",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOC2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD18B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CST3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NCOA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EPHA5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RXRA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VGF",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FBN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MFI2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MEPE",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RAF1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FSTL1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD20A1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCNA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KTN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SERPINA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXO1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NAP1L4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IRAK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB15",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1R12B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HSPG2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PRSS23",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1R16B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD20A4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AKT1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IRAK3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LAMC1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD20A2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD63",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKS1A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VWA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CDKN2D",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ITIH2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FABP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MED1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MIS12",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BMPR2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CASKIN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PBK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOA5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FAM20A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKEF1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "JAK2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VCAM1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EPHB1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD65",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EPHB3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CHD1L",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOE",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NKPD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KSR1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD16",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TGS1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ME1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IGFBP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD26",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PIDD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SCG2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IGFBP7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MTTP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCNA1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SERPINC1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1R12A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD44",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CFHR1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LRP8",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FGF23",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKAR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AKT2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PCYOX1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SERPINA10",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VIMP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EPHB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOF",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASZ1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ABCA13",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "VCP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LPL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD20A3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCNJL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "USH1G",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "DMP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOM",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOBR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HCK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RELA",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PRKCSH",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PCSK9",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LIPC",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NUCB1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXC2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPC5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SAA4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SMARCA4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD49",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCNB2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "H2AFV",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MEN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CD36",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1CB",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TMEM43",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NCOA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KRT9",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RFXANK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RIPK4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ILK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "GPC1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RABGEF1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IGFBP3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CKAP4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CDKN2C",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LCK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RNASEL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NCOA6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKDD1A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD36B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HACE1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB12",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KRT1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD60",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD36C",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CD81",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IL6",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ABCA7",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB14",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD55",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FEM1B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKS1B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOD",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FYN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NFKBIE",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD53",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB10",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SMARCA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PENK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SHISA5",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD30B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FANK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LRP10",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TBL1XR1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD28",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "EPHA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APOC4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "LTBP1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD52",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "APCS",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD22",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TYRO3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "IRAK4",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NAP1L1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD23",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FGR",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "AKT3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "MTPN",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXA3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PDE1A",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXA2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXE3",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SAR1B",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TGOLN2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "RAI14",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD17",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FN1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ASB11",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "KANK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "HBB",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "SNCAIP",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "FOXM1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "NFKBIZ",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "BLK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ESPNL",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CASKIN2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ALK",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1R27",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "PPP1R12C",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "CCNF",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "TNKS2",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ROCK1",
+"value": 1
+},
+{
+"source": "APOA1",
+"target": "ANKRD27",
+"value": 1
+}
+],
+"nodes": [
+{
+"id": "FKBP4",
+"group": 0
+},
+{
+"id": "ABCA1",
+"group": 1
+},
+{
+"id": "CFTR",
+"group": 0
+},
+{
+"id": "CYP51A1",
+"group": 0
+},
+{
+"id": "RHBDD2",
+"group": 0
+},
+{
+"id": "CD74",
+"group": 0
+},
+{
+"id": "SLC2A3",
+"group": 0
+},
+{
+"id": "SLC22A4",
+"group": 0
+},
+{
+"id": "SIRT4",
+"group": 0
+},
+{
+"id": "ABCC6",
+"group": 0
+},
+{
+"id": "SIRT1",
+"group": 0
+},
+{
+"id": "MAPK1",
+"group": 0
+},
+{
+"id": "RHBDD3",
+"group": 0
+},
+{
+"id": "CTSG",
+"group": 0
+},
+{
+"id": "SPTLC2",
+"group": 0
+},
+{
+"id": "CSNK2A1",
+"group": 0
+},
+{
+"id": "SNTA1",
+"group": 0
+},
+{
+"id": "TBL1X",
+"group": 0
+},
+{
+"id": "ATP12A",
+"group": 0
+},
+{
+"id": "FA2H",
+"group": 0
+},
+{
+"id": "AQP9",
+"group": 0
+},
+{
+"id": "AGO2",
+"group": 0
+},
+{
+"id": "DECR1",
+"group": 0
+},
+{
+"id": "LIN7B",
+"group": 0
+},
+{
+"id": "CYP4F2",
+"group": 0
+},
+{
+"id": "ABCF2",
+"group": 0
+},
+{
+"id": "MPP6",
+"group": 0
+},
+{
+"id": "CHMP5",
+"group": 0
+},
+{
+"id": "CYP27B1",
+"group": 0
+},
+{
+"id": "LTA4H",
+"group": 0
+},
+{
+"id": "GAPDH",
+"group": 0
+},
+{
+"id": "MAPK14",
+"group": 0
+},
+{
+"id": "LNPEP",
+"group": 0
+},
+{
+"id": "NR3C1",
+"group": 0
+},
+{
+"id": "SLC5A9",
+"group": 0
+},
+{
+"id": "APOA1",
+"group": 1
+},
+{
+"id": "ABCG2",
+"group": 0
+},
+{
+"id": "FKBP15",
+"group": 0
+},
+{
+"id": "EGR1",
+"group": 0
+},
+{
+"id": "ATP7B",
+"group": 0
+},
+{
+"id": "SLC22A5",
+"group": 0
+},
+{
+"id": "CANX",
+"group": 0
+},
+{
+"id": "KLF2",
+"group": 0
+},
+{
+"id": "RAC2",
+"group": 0
+},
+{
+"id": "SIRT2",
+"group": 0
+},
+{
+"id": "COPB1",
+"group": 0
+},
+{
+"id": "CMA1",
+"group": 0
+},
+{
+"id": "FKBP6",
+"group": 0
+},
+{
+"id": "ATXN10",
+"group": 0
+},
+{
+"id": "ABCB7",
+"group": 0
+},
+{
+"id": "NR1H2",
+"group": 0
+},
+{
+"id": "PDLIM4",
+"group": 0
+},
+{
+"id": "RARA",
+"group": 0
+},
+{
+"id": "FUS",
+"group": 0
+},
+{
+"id": "NR0B2",
+"group": 0
+},
+{
+"id": "LGALS3",
+"group": 0
+},
+{
+"id": "AP3B1",
+"group": 0
+},
+{
+"id": "KRAS",
+"group": 0
+},
+{
+"id": "CYP27A1",
+"group": 0
+},
+{
+"id": "ACSBG1",
+"group": 0
+},
+{
+"id": "RIPK1",
+"group": 0
+},
+{
+"id": "TLR2",
+"group": 0
+},
+{
+"id": "TTPA",
+"group": 0
+},
+{
+"id": "TGS1",
+"group": 0
+},
+{
+"id": "DDX60L",
+"group": 0
+},
+{
+"id": "ABCG5",
+"group": 0
+},
+{
+"id": "CYP2C9",
+"group": 0
+},
+{
+"id": "KIF11",
+"group": 0
+},
+{
+"id": "PPIG",
+"group": 0
+},
+{
+"id": "OSBPL8",
+"group": 0
+},
+{
+"id": "ABCC9",
+"group": 0
+},
+{
+"id": "MSMO1",
+"group": 0
+},
+{
+"id": "CYP46A1",
+"group": 0
+},
+{
+"id": "RAB11A",
+"group": 0
+},
+{
+"id": "SMARCD3",
+"group": 0
+},
+{
+"id": "RIMS2",
+"group": 0
+},
+{
+"id": "RHBDF1",
+"group": 0
+},
+{
+"id": "CREBBP",
+"group": 0
+},
+{
+"id": "CSNK2A2",
+"group": 0
+},
+{
+"id": "SPTLC1",
+"group": 0
+},
+{
+"id": "ATP4A",
+"group": 0
+},
+{
+"id": "MAPK3",
+"group": 0
+},
+{
+"id": "DGCR8",
+"group": 0
+},
+{
+"id": "EP300",
+"group": 0
+},
+{
+"id": "NOX4",
+"group": 0
+},
+{
+"id": "PAX8",
+"group": 0
+},
+{
+"id": "OSBPL5",
+"group": 0
+},
+{
+"id": "ABCB11",
+"group": 0
+},
+{
+"id": "KDR",
+"group": 0
+},
+{
+"id": "LNX1",
+"group": 0
+},
+{
+"id": "CTCF",
+"group": 0
+},
+{
+"id": "SC5D",
+"group": 0
+},
+{
+"id": "BCHE",
+"group": 0
+},
+{
+"id": "CP",
+"group": 0
+},
+{
+"id": "MTRR",
+"group": 0
+},
+{
+"id": "RAB7A",
+"group": 0
+},
+{
+"id": "ABCB6",
+"group": 0
+},
+{
+"id": "ABCB4",
+"group": 0
+},
+{
+"id": "CDK6",
+"group": 0
+},
+{
+"id": "IGF1R",
+"group": 0
+},
+{
+"id": "CYP11A1",
+"group": 0
+},
+{
+"id": "PML",
+"group": 0
+},
+{
+"id": "NCOR1",
+"group": 0
+},
+{
+"id": "CERS2",
+"group": 0
+},
+{
+"id": "RHOB",
+"group": 0
+},
+{
+"id": "ABCG8",
+"group": 0
+},
+{
+"id": "ABCA12",
+"group": 0
+},
+{
+"id": "SLC22A14",
+"group": 0
+},
+{
+"id": "CYP39A1",
+"group": 0
+},
+{
+"id": "SLC2A12",
+"group": 0
+},
+{
+"id": "SLC22A3",
+"group": 0
+},
+{
+"id": "EGFR",
+"group": 0
+},
+{
+"id": "EPHA1",
+"group": 0
+},
+{
+"id": "CDKN2B",
+"group": 0
+},
+{
+"id": "LIN7C",
+"group": 0
+},
+{
+"id": "SLC22A9",
+"group": 0
+},
+{
+"id": "SLC2A13",
+"group": 0
+},
+{
+"id": "QDPR",
+"group": 0
+},
+{
+"id": "FLT1",
+"group": 0
+},
+{
+"id": "SCN3A",
+"group": 0
+},
+{
+"id": "CERS3",
+"group": 0
+},
+{
+"id": "PDLIM3",
+"group": 0
+},
+{
+"id": "ABCC3",
+"group": 0
+},
+{
+"id": "LRGUK",
+"group": 0
+},
+{
+"id": "CSF1R",
+"group": 0
+},
+{
+"id": "TIAM1",
+"group": 0
+},
+{
+"id": "ZIC3",
+"group": 0
+},
+{
+"id": "PPARG",
+"group": 0
+},
+{
+"id": "SHANK1",
+"group": 0
+},
+{
+"id": "SLC25A34",
+"group": 0
+},
+{
+"id": "NCSTN",
+"group": 0
+},
+{
+"id": "MERTK",
+"group": 0
+},
+{
+"id": "FABP1",
+"group": 0
+},
+{
+"id": "IFT122",
+"group": 0
+},
+{
+"id": "ANXA5",
+"group": 0
+},
+{
+"id": "TLR3",
+"group": 0
+},
+{
+"id": "RAPGEF6",
+"group": 0
+},
+{
+"id": "NOS3",
+"group": 0
+},
+{
+"id": "ABCB8",
+"group": 0
+},
+{
+"id": "WDFY2",
+"group": 0
+},
+{
+"id": "ARF6",
+"group": 0
+},
+{
+"id": "COPS2",
+"group": 0
+},
+{
+"id": "C2",
+"group": 0
+},
+{
+"id": "MED1",
+"group": 0
+},
+{
+"id": "GPD1",
+"group": 0
+},
+{
+"id": "AXL",
+"group": 0
+},
+{
+"id": "SOAT2",
+"group": 0
+},
+{
+"id": "CYP7A1",
+"group": 0
+},
+{
+"id": "FADD",
+"group": 0
+},
+{
+"id": "SLC22A11",
+"group": 0
+},
+{
+"id": "LGALS4",
+"group": 0
+},
+{
+"id": "HDAC3",
+"group": 0
+},
+{
+"id": "SCN1A",
+"group": 0
+},
+{
+"id": "INSR",
+"group": 0
+},
+{
+"id": "ABCC8",
+"group": 0
+},
+{
+"id": "CES3",
+"group": 0
+},
+{
+"id": "TBL2",
+"group": 0
+},
+{
+"id": "SLC22A25",
+"group": 0
+},
+{
+"id": "F2",
+"group": 0
+},
+{
+"id": "TLR10",
+"group": 0
+},
+{
+"id": "PLG",
+"group": 0
+},
+{
+"id": "CATSPER1",
+"group": 0
+},
+{
+"id": "PRKACA",
+"group": 0
+},
+{
+"id": "SPNS1",
+"group": 0
+},
+{
+"id": "SLC22A13",
+"group": 0
+},
+{
+"id": "SP3",
+"group": 0
+},
+{
+"id": "BRSK1",
+"group": 0
+},
+{
+"id": "CYP7B1",
+"group": 0
+},
+{
+"id": "PPARD",
+"group": 0
+},
+{
+"id": "ABCC12",
+"group": 0
+},
+{
+"id": "ISX",
+"group": 0
+},
+{
+"id": "REST",
+"group": 0
+},
+{
+"id": "TLR8",
+"group": 0
+},
+{
+"id": "TRIM72",
+"group": 0
+},
+{
+"id": "ABCF1",
+"group": 0
+},
+{
+"id": "KLK3",
+"group": 0
+},
+{
+"id": "CSTF3",
+"group": 0
+},
+{
+"id": "CYP8B1",
+"group": 0
+},
+{
+"id": "EZH2",
+"group": 0
+},
+{
+"id": "SLC7A8",
+"group": 0
+},
+{
+"id": "SLC2A4",
+"group": 0
+},
+{
+"id": "LPA",
+"group": 0
+},
+{
+"id": "SLC2A2",
+"group": 0
+},
+{
+"id": "CYP2B6",
+"group": 0
+},
+{
+"id": "GSK3B",
+"group": 0
+},
+{
+"id": "PGR",
+"group": 0
+},
+{
+"id": "CARM1",
+"group": 0
+},
+{
+"id": "NOS2",
+"group": 0
+},
+{
+"id": "KLHDC8B",
+"group": 0
+},
+{
+"id": "SLC22A10",
+"group": 0
+},
+{
+"id": "SP1",
+"group": 0
+},
+{
+"id": "SIRT7",
+"group": 0
+},
+{
+"id": "TBK1",
+"group": 0
+},
+{
+"id": "HGS",
+"group": 0
+},
+{
+"id": "WT1",
+"group": 0
+},
+{
+"id": "TBX1",
+"group": 0
+},
+{
+"id": "ALAS2",
+"group": 0
+},
+{
+"id": "ATP11C",
+"group": 0
+},
+{
+"id": "SPNS2",
+"group": 0
+},
+{
+"id": "RAB11B",
+"group": 0
+},
+{
+"id": "ABCC5",
+"group": 0
+},
+{
+"id": "CACNA1H",
+"group": 0
+},
+{
+"id": "HSP90AA1",
+"group": 0
+},
+{
+"id": "NR1I2",
+"group": 0
+},
+{
+"id": "LIMK1",
+"group": 0
+},
+{
+"id": "SIRT6",
+"group": 0
+},
+{
+"id": "SLC22A8",
+"group": 0
+},
+{
+"id": "ZNF202",
+"group": 0
+},
+{
+"id": "LCK",
+"group": 0
+},
+{
+"id": "CYP3A4",
+"group": 0
+},
+{
+"id": "SNTB2",
+"group": 0
+},
+{
+"id": "UGP2",
+"group": 0
+},
+{
+"id": "RHOG",
+"group": 0
+},
+{
+"id": "ARL4C",
+"group": 0
+},
+{
+"id": "ACSL4",
+"group": 0
+},
+{
+"id": "FGFR3",
+"group": 0
+},
+{
+"id": "ADIPOR1",
+"group": 0
+},
+{
+"id": "ATP9A",
+"group": 0
+},
+{
+"id": "ACER2",
+"group": 0
+},
+{
+"id": "JAK1",
+"group": 0
+},
+{
+"id": "ESR2",
+"group": 0
+},
+{
+"id": "DLG1",
+"group": 0
+},
+{
+"id": "ANXA2",
+"group": 0
+},
+{
+"id": "TAP1",
+"group": 0
+},
+{
+"id": "SCN8A",
+"group": 0
+},
+{
+"id": "FYN",
+"group": 0
+},
+{
+"id": "MSRB3",
+"group": 0
+},
+{
+"id": "SPNS3",
+"group": 0
+},
+{
+"id": "HP",
+"group": 0
+},
+{
+"id": "ACSL5",
+"group": 0
+},
+{
+"id": "RAC1",
+"group": 0
+},
+{
+"id": "ATN1",
+"group": 0
+},
+{
+"id": "ADIPOR2",
+"group": 0
+},
+{
+"id": "ATP13A1",
+"group": 0
+},
+{
+"id": "SMC4",
+"group": 0
+},
+{
+"id": "ACSL3",
+"group": 0
+},
+{
+"id": "AP1B1",
+"group": 0
+},
+{
+"id": "ATP2B4",
+"group": 0
+},
+{
+"id": "PRIM1",
+"group": 0
+},
+{
+"id": "COPS5",
+"group": 0
+},
+{
+"id": "RAD23B",
+"group": 0
+},
+{
+"id": "PRDM10",
+"group": 0
+},
+{
+"id": "TGFBR2",
+"group": 0
+},
+{
+"id": "CACNA1G",
+"group": 0
+},
+{
+"id": "PIK3CG",
+"group": 0
+},
+{
+"id": "RXRG",
+"group": 0
+},
+{
+"id": "DMBX1",
+"group": 0
+},
+{
+"id": "CACNA1A",
+"group": 0
+},
+{
+"id": "CES1",
+"group": 0
+},
+{
+"id": "TLR9",
+"group": 0
+},
+{
+"id": "MTOR",
+"group": 0
+},
+{
+"id": "DMD",
+"group": 0
+},
+{
+"id": "TLR1",
+"group": 0
+},
+{
+"id": "ABCG1",
+"group": 0
+},
+{
+"id": "TGM2",
+"group": 0
+},
+{
+"id": "ABCB10",
+"group": 0
+},
+{
+"id": "RAB4A",
+"group": 0
+},
+{
+"id": "SLC22A2",
+"group": 0
+},
+{
+"id": "SLC22A1",
+"group": 0
+},
+{
+"id": "HSD11B1",
+"group": 0
+},
+{
+"id": "PLA2G4A",
+"group": 0
+},
+{
+"id": "UTRN",
+"group": 0
+},
+{
+"id": "RNASEL",
+"group": 0
+},
+{
+"id": "SOAT1",
+"group": 0
+},
+{
+"id": "NR1I3",
+"group": 0
+},
+{
+"id": "ARHGEF11",
+"group": 0
+},
+{
+"id": "GOPC",
+"group": 0
+},
+{
+"id": "SLC22A16",
+"group": 0
+},
+{
+"id": "SV2A",
+"group": 0
+},
+{
+"id": "MAP3K7",
+"group": 0
+},
+{
+"id": "TTF2",
+"group": 0
+},
+{
+"id": "SLC22A15",
+"group": 0
+},
+{
+"id": "AP4B1",
+"group": 0
+},
+{
+"id": "FLNA",
+"group": 0
+},
+{
+"id": "IRAK1",
+"group": 0
+},
+{
+"id": "CETN2",
+"group": 0
+},
+{
+"id": "ABCC2",
+"group": 0
+},
+{
+"id": "PRKACB",
+"group": 0
+},
+{
+"id": "PSMA7",
+"group": 0
+},
+{
+"id": "GNAS",
+"group": 0
+},
+{
+"id": "JUN",
+"group": 0
+},
+{
+"id": "CYP2C8",
+"group": 0
+},
+{
+"id": "CACNA1B",
+"group": 0
+},
+{
+"id": "CH25H",
+"group": 0
+},
+{
+"id": "NCOA3",
+"group": 0
+},
+{
+"id": "CEL",
+"group": 0
+},
+{
+"id": "ABL1",
+"group": 0
+},
+{
+"id": "DLG5",
+"group": 0
+},
+{
+"id": "KDM4A",
+"group": 0
+},
+{
+"id": "PRRX2",
+"group": 0
+},
+{
+"id": "ABCC10",
+"group": 0
+},
+{
+"id": "SLC22A7",
+"group": 0
+},
+{
+"id": "PLAU",
+"group": 0
+},
+{
+"id": "ANXA7",
+"group": 0
+},
+{
+"id": "DNM1",
+"group": 0
+},
+{
+"id": "AGO3",
+"group": 0
+},
+{
+"id": "SGPL1",
+"group": 0
+},
+{
+"id": "AGO1",
+"group": 0
+},
+{
+"id": "AGO4",
+"group": 0
+},
+{
+"id": "STXBP1",
+"group": 0
+},
+{
+"id": "SLC2A8",
+"group": 0
+},
+{
+"id": "HDAC1",
+"group": 0
+},
+{
+"id": "SRC",
+"group": 0
+},
+{
+"id": "STX12",
+"group": 0
+},
+{
+"id": "TLR4",
+"group": 0
+},
+{
+"id": "DLG3",
+"group": 0
+},
+{
+"id": "BMPR2",
+"group": 0
+},
+{
+"id": "KLF4",
+"group": 0
+},
+{
+"id": "RXRB",
+"group": 0
+},
+{
+"id": "AR",
+"group": 0
+},
+{
+"id": "AOX1",
+"group": 0
+},
+{
+"id": "CDKN2A",
+"group": 0
+},
+{
+"id": "TLR5",
+"group": 0
+},
+{
+"id": "CDC42",
+"group": 0
+},
+{
+"id": "ABCB5",
+"group": 0
+},
+{
+"id": "AP2B1",
+"group": 0
+},
+{
+"id": "ACSL1",
+"group": 0
+},
+{
+"id": "CHD9",
+"group": 0
+},
+{
+"id": "CFB",
+"group": 0
+},
+{
+"id": "PRPF8",
+"group": 0
+},
+{
+"id": "CERS6",
+"group": 0
+},
+{
+"id": "ENSG00000250264",
+"group": 0
+},
+{
+"id": "PPIA",
+"group": 0
+},
+{
+"id": "HELZ2",
+"group": 0
+},
+{
+"id": "AIF1",
+"group": 0
+},
+{
+"id": "CYP1B1",
+"group": 0
+},
+{
+"id": "DLG4",
+"group": 0
+},
+{
+"id": "TPCN1",
+"group": 0
+},
+{
+"id": "WWOX",
+"group": 0
+},
+{
+"id": "NR1H4",
+"group": 0
+},
+{
+"id": "SP6",
+"group": 0
+},
+{
+"id": "STXBP2",
+"group": 0
+},
+{
+"id": "KLF14",
+"group": 0
+},
+{
+"id": "SLC15A1",
+"group": 0
+},
+{
+"id": "HPR",
+"group": 0
+},
+{
+"id": "OSBPL9",
+"group": 0
+},
+{
+"id": "HDAC2",
+"group": 0
+},
+{
+"id": "DDX60",
+"group": 0
+},
+{
+"id": "ESR1",
+"group": 0
+},
+{
+"id": "NR1H3",
+"group": 0
+},
+{
+"id": "PLTP",
+"group": 0
+},
+{
+"id": "GCAT",
+"group": 0
+},
+{
+"id": "ZNF423",
+"group": 0
+},
+{
+"id": "SLC22A6",
+"group": 0
+},
+{
+"id": "CACNA1I",
+"group": 0
+},
+{
+"id": "TLR7",
+"group": 0
+},
+{
+"id": "NSF",
+"group": 0
+},
+{
+"id": "ENSG00000244255",
+"group": 0
+},
+{
+"id": "ELANE",
+"group": 0
+},
+{
+"id": "FKBP5",
+"group": 0
+},
+{
+"id": "SCN2A",
+"group": 0
+},
+{
+"id": "NCOA1",
+"group": 0
+},
+{
+"id": "RXRA",
+"group": 0
+},
+{
+"id": "CATSPER2",
+"group": 0
+},
+{
+"id": "GBA2",
+"group": 0
+},
+{
+"id": "ARHGEF12",
+"group": 0
+},
+{
+"id": "PBK",
+"group": 0
+},
+{
+"id": "SLC38A1",
+"group": 0
+},
+{
+"id": "JAK2",
+"group": 0
+},
+{
+"id": "SLC2A5",
+"group": 0
+},
+{
+"id": "ABCF3",
+"group": 0
+},
+{
+"id": "SLC12A4",
+"group": 0
+},
+{
+"id": "RPLP0",
+"group": 0
+},
+{
+"id": "FDFT1",
+"group": 0
+},
+{
+"id": "NR0B1",
+"group": 0
+},
+{
+"id": "ACSBG2",
+"group": 0
+},
+{
+"id": "MPP2",
+"group": 0
+},
+{
+"id": "ILK",
+"group": 0
+},
+{
+"id": "PARK7",
+"group": 0
+},
+{
+"id": "CYP2E1",
+"group": 0
+},
+{
+"id": "BRSK2",
+"group": 0
+},
+{
+"id": "MYC",
+"group": 0
+},
+{
+"id": "SLC22A24",
+"group": 0
+},
+{
+"id": "MSRB2",
+"group": 0
+},
+{
+"id": "BCL6",
+"group": 0
+},
+{
+"id": "SLC22A17",
+"group": 0
+},
+{
+"id": "ASXL2",
+"group": 0
+},
+{
+"id": "SP2",
+"group": 0
+},
+{
+"id": "ARNTL",
+"group": 0
+},
+{
+"id": "CFI",
+"group": 0
+},
+{
+"id": "SCN5A",
+"group": 0
+},
+{
+"id": "SIRT5",
+"group": 0
+},
+{
+"id": "NCOR2",
+"group": 0
+},
+{
+"id": "SLC22A23",
+"group": 0
+},
+{
+"id": "SCN9A",
+"group": 0
+},
+{
+"id": "XDH",
+"group": 0
+},
+{
+"id": "CHD7",
+"group": 0
+},
+{
+"id": "TRIM10",
+"group": 0
+},
+{
+"id": "ZNF664",
+"group": 0
+},
+{
+"id": "SVOP",
+"group": 0
+},
+{
+"id": "ANXA1",
+"group": 0
+},
+{
+"id": "RHBDD1",
+"group": 0
+},
+{
+"id": "NTM",
+"group": 0
+},
+{
+"id": "DICER1",
+"group": 0
+},
+{
+"id": "SPTLC3",
+"group": 0
+},
+{
+"id": "SLC22A31",
+"group": 0
+},
+{
+"id": "PRKACG",
+"group": 0
+},
+{
+"id": "BRD2",
+"group": 0
+},
+{
+"id": "OSBPL10",
+"group": 0
+},
+{
+"id": "MPDZ",
+"group": 0
+},
+{
+"id": "ABCG4",
+"group": 0
+},
+{
+"id": "NTRK1",
+"group": 0
+},
+{
+"id": "ALAS1",
+"group": 0
+},
+{
+"id": "MATK",
+"group": 0
+},
+{
+"id": "TAP2",
+"group": 0
+},
+{
+"id": "ATP11A",
+"group": 0
+},
+{
+"id": "SIK3",
+"group": 0
+},
+{
+"id": "SV2B",
+"group": 0
+},
+{
+"id": "HDLBP",
+"group": 0
+},
+{
+"id": "SV2C",
+"group": 0
+},
+{
+"id": "PDZK1",
+"group": 0
+},
+{
+"id": "TMEM241",
+"group": 0
+},
+{
+"id": "DGAT1",
+"group": 0
+},
+{
+"id": "RHOA",
+"group": 0
+},
+{
+"id": "GPS2",
+"group": 0
+},
+{
+"id": "TLR6",
+"group": 0
+},
+{
+"id": "CYBB",
+"group": 0
+},
+{
+"id": "LIN7A",
+"group": 0
+},
+{
+"id": "DNM2",
+"group": 0
+},
+{
+"id": "SNTB1",
+"group": 0
+},
+{
+"id": "TEK",
+"group": 0
+},
+{
+"id": "ABCC1",
+"group": 0
+},
+{
+"id": "RAB7B",
+"group": 0
+},
+{
+"id": "VDR",
+"group": 0
+},
+{
+"id": "TRIM27",
+"group": 0
+},
+{
+"id": "RPS24",
+"group": 0
+},
+{
+"id": "PPARA",
+"group": 0
+},
+{
+"id": "DROSHA",
+"group": 0
+},
+{
+"id": "ZDHHC8",
+"group": 0
+},
+{
+"id": "MX1",
+"group": 0
+},
+{
+"id": "FLOT1",
+"group": 0
+},
+{
+"id": "ABCC11",
+"group": 0
+},
+{
+"id": "DTNB",
+"group": 0
+},
+{
+"id": "ABCC4",
+"group": 0
+},
+{
+"id": "SKIV2L",
+"group": 0
+},
+{
+"id": "KLF5",
+"group": 0
+},
+{
+"id": "ABCB1",
+"group": 0
+},
+{
+"id": "ACSL6",
+"group": 0
+},
+{
+"id": "GPX3",
+"group": 0
+},
+{
+"id": "TONSL",
+"group": 0
+},
+{
+"id": "CYP1A1",
+"group": 0
+},
+{
+"id": "HRAS",
+"group": 0
+},
+{
+"id": "DLG2",
+"group": 0
+},
+{
+"id": "PRMT2",
+"group": 0
+},
+{
+"id": "FRK",
+"group": 0
+},
+{
+"id": "AP3B2",
+"group": 0
+},
+{
+"id": "AQP4",
+"group": 0
+},
+{
+"id": "LINGO2",
+"group": 0
+},
+{
+"id": "AKT1",
+"group": 0
+},
+{
+"id": "UBQLN1",
+"group": 0
+},
+{
+"id": "LMO7",
+"group": 0
+},
+{
+"id": "NOS1",
+"group": 0
+},
+{
+"id": "SLC2A1",
+"group": 0
+},
+{
+"id": "ATP8B1",
+"group": 0
+},
+{
+"id": "SLC5A8",
+"group": 0
+},
+{
+"id": "SEL1L3",
+"group": 0
+},
+{
+"id": "IKBKB",
+"group": 0
+},
+{
+"id": "AKT2",
+"group": 0
+},
+{
+"id": "TFAM",
+"group": 0
+},
+{
+"id": "ABCA13",
+"group": 0
+},
+{
+"id": "HDAC9",
+"group": 0
+},
+{
+"id": "SIRT3",
+"group": 0
+},
+{
+"id": "RELA",
+"group": 0
+},
+{
+"id": "ABCB9",
+"group": 0
+},
+{
+"id": "RHOBTB3",
+"group": 0
+},
+{
+"id": "GAS7",
+"group": 0
+},
+{
+"id": "NCOA2",
+"group": 0
+},
+{
+"id": "LRTM2",
+"group": 0
+},
+{
+"id": "SDHB",
+"group": 0
+},
+{
+"id": "NCOA6",
+"group": 0
+},
+{
+"id": "SLC22A12",
+"group": 0
+},
+{
+"id": "FKBP8",
+"group": 0
+},
+{
+"id": "HIST2H3PS2",
+"group": 0
+},
+{
+"id": "TBL1XR1",
+"group": 0
+},
+{
+"id": "MTPN",
+"group": 0
+},
+{
+"id": "HFE",
+"group": 0
+},
+{
+"id": "SCN4A",
+"group": 0
+},
+{
+"id": "FUCA2",
+"group": 0
+},
+{
+"id": "TMEM132A",
+"group": 0
+},
+{
+"id": "RCN1",
+"group": 0
+},
+{
+"id": "ANO8",
+"group": 0
+},
+{
+"id": "CTTNBP2",
+"group": 0
+},
+{
+"id": "BCL3",
+"group": 0
+},
+{
+"id": "FSTL3",
+"group": 0
+},
+{
+"id": "SPP2",
+"group": 0
+},
+{
+"id": "BPIFB2",
+"group": 0
+},
+{
+"id": "CETP",
+"group": 0
+},
+{
+"id": "APOH",
+"group": 0
+},
+{
+"id": "SERPIND1",
+"group": 0
+},
+{
+"id": "LGALS1",
+"group": 0
+},
+{
+"id": "ANKRD54",
+"group": 0
+},
+{
+"id": "NFKBIA",
+"group": 0
+},
+{
+"id": "LBP",
+"group": 0
+},
+{
+"id": "PSMD10",
+"group": 0
+},
+{
+"id": "TIMP1",
+"group": 0
+},
+{
+"id": "GABPB1",
+"group": 0
+},
+{
+"id": "SCG3",
+"group": 0
+},
+{
+"id": "PON1",
+"group": 0
+},
+{
+"id": "LAMB1",
+"group": 0
+},
+{
+"id": "NFKB1",
+"group": 0
+},
+{
+"id": "WFS1",
+"group": 0
+},
+{
+"id": "APOC3",
+"group": 0
+},
+{
+"id": "GPLD1",
+"group": 0
+},
+{
+"id": "NUDT12",
+"group": 0
+},
+{
+"id": "EHHADH",
+"group": 0
+},
+{
+"id": "RBP2",
+"group": 0
+},
+{
+"id": "RBP1",
+"group": 0
+},
+{
+"id": "ABTB1",
+"group": 0
+},
+{
+"id": "APOB",
+"group": 0
+},
+{
+"id": "EVA1A",
+"group": 0
+},
+{
+"id": "IGFBP5",
+"group": 0
+},
+{
+"id": "PROC",
+"group": 0
+},
+{
+"id": "HSP90B1",
+"group": 0
+},
+{
+"id": "P4HB",
+"group": 0
+},
+{
+"id": "GDPD1",
+"group": 0
+},
+{
+"id": "TNC",
+"group": 0
+},
+{
+"id": "AFP",
+"group": 0
+},
+{
+"id": "NRIP1",
+"group": 0
+},
+{
+"id": "BRAP",
+"group": 0
+},
+{
+"id": "ASB13",
+"group": 0
+},
+{
+"id": "LSR",
+"group": 0
+},
+{
+"id": "SORL1",
+"group": 0
+},
+{
+"id": "MPHOSPH8",
+"group": 0
+},
+{
+"id": "CALU",
+"group": 0
+},
+{
+"id": "CCNB1",
+"group": 0
+},
+{
+"id": "ANK1",
+"group": 0
+},
+{
+"id": "FOXL1",
+"group": 0
+},
+{
+"id": "AMELX",
+"group": 0
+},
+{
+"id": "ANKS6",
+"group": 0
+},
+{
+"id": "JAK3",
+"group": 0
+},
+{
+"id": "ASB9",
+"group": 0
+},
+{
+"id": "CITED2",
+"group": 0
+},
+{
+"id": "FEM1C",
+"group": 0
+},
+{
+"id": "GAS6",
+"group": 0
+},
+{
+"id": "CHRDL1",
+"group": 0
+},
+{
+"id": "PRKCI",
+"group": 0
+},
+{
+"id": "CHGB",
+"group": 0
+},
+{
+"id": "CD40LG",
+"group": 0
+},
+{
+"id": "GPIHBP1",
+"group": 0
+},
+{
+"id": "MXRA8",
+"group": 0
+},
+{
+"id": "GPC6",
+"group": 0
+},
+{
+"id": "GOT1L1",
+"group": 0
+},
+{
+"id": "PEX3",
+"group": 0
+},
+{
+"id": "ZAP70",
+"group": 0
+},
+{
+"id": "MAP3K11",
+"group": 0
+},
+{
+"id": "ANKRD7",
+"group": 0
+},
+{
+"id": "ANK2",
+"group": 0
+},
+{
+"id": "STC2",
+"group": 0
+},
+{
+"id": "PPP1CA",
+"group": 0
+},
+{
+"id": "KIDINS220",
+"group": 0
+},
+{
+"id": "FEM1A",
+"group": 0
+},
+{
+"id": "AMBN",
+"group": 0
+},
+{
+"id": "ASB5",
+"group": 0
+},
+{
+"id": "NOTUM",
+"group": 0
+},
+{
+"id": "FOXP3",
+"group": 0
+},
+{
+"id": "FOXN3",
+"group": 0
+},
+{
+"id": "C3",
+"group": 0
+},
+{
+"id": "HRC",
+"group": 0
+},
+{
+"id": "ANKRD32",
+"group": 0
+},
+{
+"id": "IGFBP4",
+"group": 0
+},
+{
+"id": "SDC1",
+"group": 0
+},
+{
+"id": "ASB6",
+"group": 0
+},
+{
+"id": "MSR1",
+"group": 0
+},
+{
+"id": "NFKB2",
+"group": 0
+},
+{
+"id": "APOO",
+"group": 0
+},
+{
+"id": "ALB",
+"group": 0
+},
+{
+"id": "BMP4",
+"group": 0
+},
+{
+"id": "ASB2",
+"group": 0
+},
+{
+"id": "PPP1R16A",
+"group": 0
+},
+{
+"id": "ANKRD30A",
+"group": 0
+},
+{
+"id": "BRAF",
+"group": 0
+},
+{
+"id": "APOA2",
+"group": 0
+},
+{
+"id": "BIN1",
+"group": 0
+},
+{
+"id": "LRP2",
+"group": 0
+},
+{
+"id": "ENAM",
+"group": 0
+},
+{
+"id": "MIB1",
+"group": 0
+},
+{
+"id": "MIA3",
+"group": 0
+},
+{
+"id": "KSR2",
+"group": 0
+},
+{
+"id": "SHANK2",
+"group": 0
+},
+{
+"id": "LRRK2",
+"group": 0
+},
+{
+"id": "MIB2",
+"group": 0
+},
+{
+"id": "ANKLE1",
+"group": 0
+},
+{
+"id": "ASB18",
+"group": 0
+},
+{
+"id": "NR1D1",
+"group": 0
+},
+{
+"id": "AGRN",
+"group": 0
+},
+{
+"id": "ZNF558",
+"group": 0
+},
+{
+"id": "KNG1",
+"group": 0
+},
+{
+"id": "ANKRD50",
+"group": 0
+},
+{
+"id": "ANKRD29",
+"group": 0
+},
+{
+"id": "VLDLR",
+"group": 0
+},
+{
+"id": "NRARP",
+"group": 0
+},
+{
+"id": "ESPN",
+"group": 0
+},
+{
+"id": "SPP1",
+"group": 0
+},
+{
+"id": "GPC3",
+"group": 0
+},
+{
+"id": "MATN3",
+"group": 0
+},
+{
+"id": "H2AFZ",
+"group": 0
+},
+{
+"id": "MGAT4A",
+"group": 0
+},
+{
+"id": "PRKCZ",
+"group": 0
+},
+{
+"id": "ANKK1",
+"group": 0
+},
+{
+"id": "TF",
+"group": 0
+},
+{
+"id": "APOC1",
+"group": 0
+},
+{
+"id": "MALRD1",
+"group": 0
+},
+{
+"id": "LDLR",
+"group": 0
+},
+{
+"id": "ANKRD39",
+"group": 0
+},
+{
+"id": "CDH2",
+"group": 0
+},
+{
+"id": "GPC2",
+"group": 0
+},
+{
+"id": "SRA1",
+"group": 0
+},
+{
+"id": "KANK4",
+"group": 0
+},
+{
+"id": "HSD17B4",
+"group": 0
+},
+{
+"id": "ANKRD30BL",
+"group": 0
+},
+{
+"id": "TRPA1",
+"group": 0
+},
+{
+"id": "F5",
+"group": 0
+},
+{
+"id": "PKDCC",
+"group": 0
+},
+{
+"id": "C4A",
+"group": 0
+},
+{
+"id": "APOA1BP",
+"group": 0
+},
+{
+"id": "ANKRD36",
+"group": 0
+},
+{
+"id": "MBTPS1",
+"group": 0
+},
+{
+"id": "TANC1",
+"group": 0
+},
+{
+"id": "MAMDC4",
+"group": 0
+},
+{
+"id": "HSD3B7",
+"group": 0
+},
+{
+"id": "AMTN",
+"group": 0
+},
+{
+"id": "ANKRD46",
+"group": 0
+},
+{
+"id": "ANKHD1",
+"group": 0
+},
+{
+"id": "INVS",
+"group": 0
+},
+{
+"id": "A2M",
+"group": 0
+},
+{
+"id": "UPF3A",
+"group": 0
+},
+{
+"id": "TNKS",
+"group": 0
+},
+{
+"id": "LRP1",
+"group": 0
+},
+{
+"id": "HNF4A",
+"group": 0
+},
+{
+"id": "CCDC144A",
+"group": 0
+},
+{
+"id": "EPHA7",
+"group": 0
+},
+{
+"id": "KANK2",
+"group": 0
+},
+{
+"id": "SAA1",
+"group": 0
+},
+{
+"id": "SPARCL1",
+"group": 0
+},
+{
+"id": "ADAM10",
+"group": 0
+},
+{
+"id": "APOA4",
+"group": 0
+},
+{
+"id": "ANKRD61",
+"group": 0
+},
+{
+"id": "SDC3",
+"group": 0
+},
+{
+"id": "QSOX1",
+"group": 0
+},
+{
+"id": "CUBN",
+"group": 0
+},
+{
+"id": "TANC2",
+"group": 0
+},
+{
+"id": "APLP2",
+"group": 0
+},
+{
+"id": "BARD1",
+"group": 0
+},
+{
+"id": "ROCK2",
+"group": 0
+},
+{
+"id": "ATP5B",
+"group": 0
+},
+{
+"id": "ACVR1B",
+"group": 0
+},
+{
+"id": "AMHR2",
+"group": 0
+},
+{
+"id": "CALR",
+"group": 0
+},
+{
+"id": "ALDH2",
+"group": 0
+},
+{
+"id": "CSF1",
+"group": 0
+},
+{
+"id": "CTSL",
+"group": 0
+},
+{
+"id": "LOC388210",
+"group": 0
+},
+{
+"id": "GAPVD1",
+"group": 0
+},
+{
+"id": "UACA",
+"group": 0
+},
+{
+"id": "ENSG00000270898",
+"group": 0
+},
+{
+"id": "ENPP1",
+"group": 0
+},
+{
+"id": "PNPLA2",
+"group": 0
+},
+{
+"id": "DNAJC3",
+"group": 0
+},
+{
+"id": "ANK3",
+"group": 0
+},
+{
+"id": "VCAN",
+"group": 0
+},
+{
+"id": "CYR61",
+"group": 0
+},
+{
+"id": "ANKRD66",
+"group": 0
+},
+{
+"id": "PTK6",
+"group": 0
+},
+{
+"id": "CPT1A",
+"group": 0
+},
+{
+"id": "ANKRD62",
+"group": 0
+},
+{
+"id": "PPARGC1A",
+"group": 0
+},
+{
+"id": "LIMK2",
+"group": 0
+},
+{
+"id": "ANKRD35",
+"group": 0
+},
+{
+"id": "AHSG",
+"group": 0
+},
+{
+"id": "GOLM1",
+"group": 0
+},
+{
+"id": "PLA2G7",
+"group": 0
+},
+{
+"id": "TGFBR1",
+"group": 0
+},
+{
+"id": "SDC4",
+"group": 0
+},
+{
+"id": "SCARB1",
+"group": 0
+},
+{
+"id": "LAMB2",
+"group": 0
+},
+{
+"id": "NFKBIB",
+"group": 0
+},
+{
+"id": "ANKRD37",
+"group": 0
+},
+{
+"id": "FGG",
+"group": 0
+},
+{
+"id": "ASB16",
+"group": 0
+},
+{
+"id": "LRP12",
+"group": 0
+},
+{
+"id": "FGA",
+"group": 0
+},
+{
+"id": "AMN",
+"group": 0
+},
+{
+"id": "BMP15",
+"group": 0
+},
+{
+"id": "ANKMY2",
+"group": 0
+},
+{
+"id": "KANK3",
+"group": 0
+},
+{
+"id": "GPC4",
+"group": 0
+},
+{
+"id": "APOL1",
+"group": 0
+},
+{
+"id": "ANKRD18A",
+"group": 0
+},
+{
+"id": "ANKRD24",
+"group": 0
+},
+{
+"id": "ANKRD10",
+"group": 0
+},
+{
+"id": "ANKS3",
+"group": 0
+},
+{
+"id": "ARAF",
+"group": 0
+},
+{
+"id": "TTR",
+"group": 0
+},
+{
+"id": "KAT5",
+"group": 0
+},
+{
+"id": "PDIA6",
+"group": 0
+},
+{
+"id": "ACOX1",
+"group": 0
+},
+{
+"id": "SQSTM1",
+"group": 0
+},
+{
+"id": "ENSG00000254996",
+"group": 0
+},
+{
+"id": "CLU",
+"group": 0
+},
+{
+"id": "ANKS4B",
+"group": 0
+},
+{
+"id": "ANKRD9",
+"group": 0
+},
+{
+"id": "MSLN",
+"group": 0
+},
+{
+"id": "ANKFY1",
+"group": 0
+},
+{
+"id": "ASB8",
+"group": 0
+},
+{
+"id": "NFKBID",
+"group": 0
+},
+{
+"id": "MFGE8",
+"group": 0
+},
+{
+"id": "LONRF2",
+"group": 0
+},
+{
+"id": "NBR1",
+"group": 0
+},
+{
+"id": "ANKRD6",
+"group": 0
+},
+{
+"id": "ANKDD1B",
+"group": 0
+},
+{
+"id": "GABPB2",
+"group": 0
+},
+{
+"id": "NTRK2",
+"group": 0
+},
+{
+"id": "LCAT",
+"group": 0
+},
+{
+"id": "SAA2",
+"group": 0
+},
+{
+"id": "FAM20C",
+"group": 0
+},
+{
+"id": "SDC2",
+"group": 0
+},
+{
+"id": "FBLN1",
+"group": 0
+},
+{
+"id": "ANKRD42",
+"group": 0
+},
+{
+"id": "APOC2",
+"group": 0
+},
+{
+"id": "ANKRD18B",
+"group": 0
+},
+{
+"id": "CST3",
+"group": 0
+},
+{
+"id": "EPHA5",
+"group": 0
+},
+{
+"id": "FOXA1",
+"group": 0
+},
+{
+"id": "VGF",
+"group": 0
+},
+{
+"id": "FBN1",
+"group": 0
+},
+{
+"id": "MFI2",
+"group": 0
+},
+{
+"id": "MEPE",
+"group": 0
+},
+{
+"id": "RAF1",
+"group": 0
+},
+{
+"id": "FSTL1",
+"group": 0
+},
+{
+"id": "ANKRD20A1",
+"group": 0
+},
+{
+"id": "CCNA2",
+"group": 0
+},
+{
+"id": "KTN1",
+"group": 0
+},
+{
+"id": "SERPINA1",
+"group": 0
+},
+{
+"id": "ASB7",
+"group": 0
+},
+{
+"id": "ASB1",
+"group": 0
+},
+{
+"id": "FOXO1",
+"group": 0
+},
+{
+"id": "NAP1L4",
+"group": 0
+},
+{
+"id": "IRAK2",
+"group": 0
+},
+{
+"id": "ASB15",
+"group": 0
+},
+{
+"id": "PPP1R12B",
+"group": 0
+},
+{
+"id": "HSPG2",
+"group": 0
+},
+{
+"id": "PRSS23",
+"group": 0
+},
+{
+"id": "PPP1R16B",
+"group": 0
+},
+{
+"id": "ANKRD20A4",
+"group": 0
+},
+{
+"id": "IRAK3",
+"group": 0
+},
+{
+"id": "LAMC1",
+"group": 0
+},
+{
+"id": "ANKRD20A2",
+"group": 0
+},
+{
+"id": "ANKRD63",
+"group": 0
+},
+{
+"id": "ANKS1A",
+"group": 0
+},
+{
+"id": "VWA1",
+"group": 0
+},
+{
+"id": "CDKN2D",
+"group": 0
+},
+{
+"id": "ITIH2",
+"group": 0
+},
+{
+"id": "MIS12",
+"group": 0
+},
+{
+"id": "CASKIN1",
+"group": 0
+},
+{
+"id": "APOA5",
+"group": 0
+},
+{
+"id": "FAM20A",
+"group": 0
+},
+{
+"id": "ANKEF1",
+"group": 0
+},
+{
+"id": "VCAM1",
+"group": 0
+},
+{
+"id": "EPHB1",
+"group": 0
+},
+{
+"id": "ANKRD65",
+"group": 0
+},
+{
+"id": "EPHB3",
+"group": 0
+},
+{
+"id": "CHD1L",
+"group": 0
+},
+{
+"id": "APOE",
+"group": 0
+},
+{
+"id": "APP",
+"group": 0
+},
+{
+"id": "NKPD1",
+"group": 0
+},
+{
+"id": "KSR1",
+"group": 0
+},
+{
+"id": "ANKRD16",
+"group": 0
+},
+{
+"id": "ME1",
+"group": 0
+},
+{
+"id": "IGFBP1",
+"group": 0
+},
+{
+"id": "ANKRD26",
+"group": 0
+},
+{
+"id": "PIDD1",
+"group": 0
+},
+{
+"id": "SCG2",
+"group": 0
+},
+{
+"id": "IGFBP7",
+"group": 0
+},
+{
+"id": "MTTP",
+"group": 0
+},
+{
+"id": "CCNA1",
+"group": 0
+},
+{
+"id": "SERPINC1",
+"group": 0
+},
+{
+"id": "PPP1R12A",
+"group": 0
+},
+{
+"id": "ANKRD44",
+"group": 0
+},
+{
+"id": "CFHR1",
+"group": 0
+},
+{
+"id": "LRP8",
+"group": 0
+},
+{
+"id": "FGF23",
+"group": 0
+},
+{
+"id": "ANKAR",
+"group": 0
+},
+{
+"id": "ASB3",
+"group": 0
+},
+{
+"id": "PCYOX1",
+"group": 0
+},
+{
+"id": "SERPINA10",
+"group": 0
+},
+{
+"id": "VIMP",
+"group": 0
+},
+{
+"id": "EPHB2",
+"group": 0
+},
+{
+"id": "APOF",
+"group": 0
+},
+{
+"id": "ASZ1",
+"group": 0
+},
+{
+"id": "VCP",
+"group": 0
+},
+{
+"id": "LPL",
+"group": 0
+},
+{
+"id": "ANKRD20A3",
+"group": 0
+},
+{
+"id": "CCNJL",
+"group": 0
+},
+{
+"id": "USH1G",
+"group": 0
+},
+{
+"id": "DMP1",
+"group": 0
+},
+{
+"id": "APOM",
+"group": 0
+},
+{
+"id": "APOBR",
+"group": 0
+},
+{
+"id": "HCK",
+"group": 0
+},
+{
+"id": "PRKCSH",
+"group": 0
+},
+{
+"id": "PCSK9",
+"group": 0
+},
+{
+"id": "LIPC",
+"group": 0
+},
+{
+"id": "NUCB1",
+"group": 0
+},
+{
+"id": "FOXC2",
+"group": 0
+},
+{
+"id": "GPC5",
+"group": 0
+},
+{
+"id": "SAA4",
+"group": 0
+},
+{
+"id": "SMARCA4",
+"group": 0
+},
+{
+"id": "ANKRD49",
+"group": 0
+},
+{
+"id": "CCNB2",
+"group": 0
+},
+{
+"id": "H2AFV",
+"group": 0
+},
+{
+"id": "MEN1",
+"group": 0
+},
+{
+"id": "CD36",
+"group": 0
+},
+{
+"id": "PPP1CB",
+"group": 0
+},
+{
+"id": "TMEM43",
+"group": 0
+},
+{
+"id": "KRT9",
+"group": 0
+},
+{
+"id": "RFXANK",
+"group": 0
+},
+{
+"id": "ANKRA2",
+"group": 0
+},
+{
+"id": "RIPK4",
+"group": 0
+},
+{
+"id": "GPC1",
+"group": 0
+},
+{
+"id": "RABGEF1",
+"group": 0
+},
+{
+"id": "IGFBP3",
+"group": 0
+},
+{
+"id": "CKAP4",
+"group": 0
+},
+{
+"id": "CDKN2C",
+"group": 0
+},
+{
+"id": "ANKDD1A",
+"group": 0
+},
+{
+"id": "ANKRD36B",
+"group": 0
+},
+{
+"id": "HACE1",
+"group": 0
+},
+{
+"id": "ASB12",
+"group": 0
+},
+{
+"id": "KRT1",
+"group": 0
+},
+{
+"id": "ANKRD60",
+"group": 0
+},
+{
+"id": "ANKRD36C",
+"group": 0
+},
+{
+"id": "CD81",
+"group": 0
+},
+{
+"id": "IL6",
+"group": 0
+},
+{
+"id": "ABCA7",
+"group": 0
+},
+{
+"id": "ASB14",
+"group": 0
+},
+{
+"id": "ANKRD55",
+"group": 0
+},
+{
+"id": "ANKRD2",
+"group": 0
+},
+{
+"id": "FEM1B",
+"group": 0
+},
+{
+"id": "ANKS1B",
+"group": 0
+},
+{
+"id": "APOD",
+"group": 0
+},
+{
+"id": "NFKBIE",
+"group": 0
+},
+{
+"id": "ANKRD53",
+"group": 0
+},
+{
+"id": "ASB10",
+"group": 0
+},
+{
+"id": "SMARCA2",
+"group": 0
+},
+{
+"id": "PENK",
+"group": 0
+},
+{
+"id": "SHISA5",
+"group": 0
+},
+{
+"id": "ANKRD30B",
+"group": 0
+},
+{
+"id": "FANK1",
+"group": 0
+},
+{
+"id": "ASB4",
+"group": 0
+},
+{
+"id": "LRP10",
+"group": 0
+},
+{
+"id": "ANKRD28",
+"group": 0
+},
+{
+"id": "EPHA2",
+"group": 0
+},
+{
+"id": "APOC4",
+"group": 0
+},
+{
+"id": "LTBP1",
+"group": 0
+},
+{
+"id": "ANKRD52",
+"group": 0
+},
+{
+"id": "APCS",
+"group": 0
+},
+{
+"id": "ANKRD22",
+"group": 0
+},
+{
+"id": "TYRO3",
+"group": 0
+},
+{
+"id": "IRAK4",
+"group": 0
+},
+{
+"id": "NAP1L1",
+"group": 0
+},
+{
+"id": "ANKRD1",
+"group": 0
+},
+{
+"id": "ANKRD23",
+"group": 0
+},
+{
+"id": "FGR",
+"group": 0
+},
+{
+"id": "AKT3",
+"group": 0
+},
+{
+"id": "FOXA3",
+"group": 0
+},
+{
+"id": "PDE1A",
+"group": 0
+},
+{
+"id": "FOXA2",
+"group": 0
+},
+{
+"id": "FOXE3",
+"group": 0
+},
+{
+"id": "SAR1B",
+"group": 0
+},
+{
+"id": "TGOLN2",
+"group": 0
+},
+{
+"id": "RAI14",
+"group": 0
+},
+{
+"id": "ANKRD17",
+"group": 0
+},
+{
+"id": "FN1",
+"group": 0
+},
+{
+"id": "ASB11",
+"group": 0
+},
+{
+"id": "KANK1",
+"group": 0
+},
+{
+"id": "HBB",
+"group": 0
+},
+{
+"id": "SNCAIP",
+"group": 0
+},
+{
+"id": "FOXM1",
+"group": 0
+},
+{
+"id": "NFKBIZ",
+"group": 0
+},
+{
+"id": "BLK",
+"group": 0
+},
+{
+"id": "ESPNL",
+"group": 0
+},
+{
+"id": "CASKIN2",
+"group": 0
+},
+{
+"id": "ALK",
+"group": 0
+},
+{
+"id": "PPP1R27",
+"group": 0
+},
+{
+"id": "PPP1R12C",
+"group": 0
+},
+{
+"id": "CCNF",
+"group": 0
+},
+{
+"id": "TNKS2",
+"group": 0
+},
+{
+"id": "ROCK1",
+"group": 0
+},
+{
+"id": "ANKRD27",
+"group": 0
+}
+]
+}
